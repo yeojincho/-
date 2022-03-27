@@ -54,9 +54,9 @@ npm install --save react-daum-postcode
 |[기존 홈페이지 바로가기](http://www.excacademy.co.kr/)|[리뉴얼 홈페이지(클릭 혹은 QRcode)](http://expert002.cafe24.com/)|
 |![기존 홈페이지](https://user-images.githubusercontent.com/86069422/160289411-564c3b27-dd5b-497a-8f6f-98bd0ca8de34.png)|![리뉴얼 홈페이지](https://user-images.githubusercontent.com/86069422/160289403-dce6064d-75b5-4668-a56d-88ebef30ba16.png)|
 |![기존 홈페이지](https://user-images.githubusercontent.com/86069422/160289555-1ee62272-7c95-4c86-b8b2-5b5a182454a0.png)|![리뉴얼 홈페이지](https://user-images.githubusercontent.com/86069422/160289560-99a1851c-7af1-4a28-93e6-42bbab8ff2b7.png)|
+|![기존 홈페이지](https://user-images.githubusercontent.com/86069422/160290095-85b481db-e5d1-46ae-97f0-3655c2fae262.jpeg)|![리뉴얼 홈페이지](https://user-images.githubusercontent.com/86069422/160287960-a890546d-580d-44d0-b05a-3060499e0506.gif)|
 
 
-![엑스퍼트 메인](https://user-images.githubusercontent.com/86069422/160287960-a890546d-580d-44d0-b05a-3060499e0506.gif)
 
 
 

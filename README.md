@@ -59,7 +59,7 @@ npm install --save react-daum-postcode
 <summary> Before / After </summary>
 <div markdown="1">
   
-    |기존 홈페이지|리뉴얼 홈페이지|
+|기존 홈페이지|리뉴얼 홈페이지|
 |:-:|:-:|
 |[기존 홈페이지 바로가기](http://www.excacademy.co.kr/)|[리뉴얼 홈페이지(클릭 혹은 QRcode)](http://expert002.cafe24.com/)|
 |![기존 홈페이지](https://user-images.githubusercontent.com/86069422/160289411-564c3b27-dd5b-497a-8f6f-98bd0ca8de34.png)|![리뉴얼 홈페이지](https://user-images.githubusercontent.com/86069422/160289403-dce6064d-75b5-4668-a56d-88ebef30ba16.png)|
